@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Algos/binary_search/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algos/lineal_search/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algos/linked_list/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algos/merge_sort/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algos/non_rec_merge_sort/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algos/recursive_binary_search/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Avanzados/amino/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Avanzados/binary_matrix/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Avanzados/donations/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Avanzados/one_two_three/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Basicos/cachipun/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Basicos/desc/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Basicos/eval-rules/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Basicos/guess-the-number/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Basicos/telegraph/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Intermedios/Palindromos/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Intermedios/library/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Intermedios/numero_romano/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Intermedios/viaje/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cachipun/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
