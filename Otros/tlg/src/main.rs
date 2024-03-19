@@ -19,11 +19,11 @@ fn main() {
 
         let (a, b) = (line[0], line[1]);
 
-        let c = (a - b).abs();
+        let c_delta = (a - b).abs();
 
-        if c > max {
+        if c_delta > max {
             winner = i32::from(a > b);
-            max = c;
+            max = c_delta;
         }
     }
 
