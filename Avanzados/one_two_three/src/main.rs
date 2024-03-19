@@ -5,7 +5,7 @@ use std::collections::VecDeque;
 
 fn main() -> Result<(), Box<dyn std::error::Error>> {
     let start = (0, 0);
-    let goal = (8, 5);
+    let goal = (200, 200);
 
     if start == goal {
         println!("Start and goal are the same");
