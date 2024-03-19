@@ -28,8 +28,8 @@ fn romano_a_arabigo(num: &str) -> u32 {
         .collect();
 
     let mut total = 0;
-    for (i, value) in input.iter().enumerate() {
-        if i < input.len() - 1 && *value > input[i + 1] {
+    for (i, &value) in input.iter().enumerate() {
+        if i < input.len() - 1 && value > input[i + 1] {
             total -= value;
         } else {
             total += value;
