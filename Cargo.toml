@@ -1,3 +1,5 @@
 [workspace]
 
-members = ["Basicos/*", "Intermedios/*", "Avanzados/*", "Algos/*"]
+members = ["Basicos/*", "Intermedios/*", "Avanzados/*", "Algos/*", "Otros/*", "2024/*"]
+
+resolver = "2"
