@@ -555,7 +555,15 @@ name = "p18"
 version = "0.1.0"
 
 [[package]]
+name = "p1_suma"
+version = "0.1.0"
+
+[[package]]
 name = "p2"
+version = "0.1.0"
+
+[[package]]
+name = "p2_enteros"
 version = "0.1.0"
 
 [[package]]
@@ -563,7 +571,15 @@ name = "p3"
 version = "0.1.0"
 
 [[package]]
+name = "p3_primer_decimal"
+version = "0.1.0"
+
+[[package]]
 name = "p4"
+version = "0.1.0"
+
+[[package]]
+name = "p4_matriz"
 version = "0.1.0"
 
 [[package]]
@@ -571,7 +587,15 @@ name = "p5"
 version = "0.1.0"
 
 [[package]]
+name = "p5_nave"
+version = "0.1.0"
+
+[[package]]
 name = "p6"
+version = "0.1.0"
+
+[[package]]
+name = "p6_postfix"
 version = "0.1.0"
 
 [[package]]
